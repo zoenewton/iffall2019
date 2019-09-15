@@ -1,0 +1,20 @@
+/*styles.css*/
+html {font-family: ubuntu;}
+div{font-size: 20pt; color: salmon}	 
+h1{font-size-adjust: 60pt;}  
+span {font-size: 10pt}
+.text1{font-weight:100pt;} 
+.text2{font-weight:medium;} 
+.text3{font-weight: bold;}  
+.text4{font-style: oblique;}
+.text5{font-style:normal; }
+.text6{font-style: italic;}
+.text7{letter-spacing:1px } 
+.text8{letter-spacing:2px}
+.text9{letter-spacing:3px}
+.text10{text-decoration: underline;}
+.text11{text-decoration:overline; }
+.text12{text-decoration: line-through;}
+.text13{text-transform: uppercase;}
+.text14	{text-transform: lowercase;}
+.text15{text-transform: capitalize;}
