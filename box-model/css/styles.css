@@ -1,0 +1,170 @@
+body,html
+{margin:0;
+	height: 100%; 
+	font-family:'Archivo Narrow', sans-serif; }
+
+h1{object-position: center;
+	margin-top: 140px;
+
+   font-size: 80px; line-height: 20px;
+   	}
+
+.header { 
+	padding: 60px; 
+	background-color: rgba(255,0,5,.5);
+	text-align: center;
+	background-image: url("kehinde.jpg");
+	height:370px;
+	font-family: 'Archivo Narrow', sans-serif;
+	font-size: 30px; 
+	margin:0;  
+	line-height: 10px;
+	color:white}  
+.header p {font-size: 24pt;} 
+
+h2{font-size: 30pt; 
+	text-align: center;
+	}
+.middle{
+	width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	padding:0; 
+	position: relative; 
+	height: 675px;
+	
+	margin-top: : -10px;   
+	
+	
+
+}  
+
+.middle p {font-size: 14pt;} 
+.middlechild{background-color:mediumvioletred; 
+			margin: 0; 
+			}
+
+.middle img{
+	width: 400px;
+	height: auto; 
+	float: right; 
+	margin-left: 45px; 
+	margin-bottom: 20px} 
+
+
+
+.pictures{ 
+	margin: 0;  
+	display: inline-block; 
+	box-sizing: border-box;  
+}  
+li{margin:0; 
+	float: left; 
+	padding-bottom: 24px;
+	  } 
+.lists{background-color: mediumpurple;
+		height: 675px;}
+
+
+.sectionphoto{margin-left: auto; 
+			margin-right: auto;  
+			width:960px;
+			margin-top: 0; 
+			
+			}  
+
+
+/*.picture{ 
+		display: inline-block; 
+			width: 50% ;
+			padding: 1em; 
+
+
+ } */	
+ ul {list-style-type: none; 
+ 		margin: 0; 
+ 		padding: 0;}
+
+ li{
+ 	width: 50%; 
+ 	margin:0; 
+ 	padding-right: 25px; 
+ 	box-sizing: border-box;
+ 	display: inline-block;}
+ li img {
+ 		height: 150px; 
+ 		width: 200px; 
+ 		float: left;
+ 		padding-left: : 10px; 
+ 		margin-right: 12px;
+ 		} 
+
+ li p{ 
+ 		margin: 0; 
+ 		font-size:19px;  
+ 	} 
+ h3{
+ 	margin: 0; 
+ 	margin-bottom: 5px;
+ 	}
+
+span{font-style: italic; 
+
+
+} 
+
+.four {
+	 margin-left: 400px;
+    margin-right: 400px;
+    width: 740px;
+    margin-top: 0;
+    border:none;
+			
+			}    
+.four h2{margin-top: 0;
+			padding-top: 45px}
+.four p {
+	text-align: center; 
+	font-size: 25px;
+}
+.buffbaby{ background-color:lightseagreen; 
+			 height: 405px;
+			 margin: 0; } 
+
+.copyright {
+		width:960px; 
+		margin:auto; 
+		padding-top: 50px; 
+
+	 } 
+footer{
+	background-color: pink; 
+	    height: 100px;
+		}
+
+
+/*section >: first-child {margin-top: 0}
+*//*img{
+	width: 100px;
+	height: auto; 
+	float: left; 
+	margin-right: 10px; 
+	margin-bottom: 10px;/
+} 
+}
+/*section{
+	color: red;  	
+	max-width: 500px;
+	height: 200px auto; 
+	width: 300pxbox-sizing: border-box;  
+	display: inline-block;
+	padding:1em 2em ; 
+	
+	background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+	url("images/sisters.jpg");
+	height: 50%
+	background-position:center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;} 
+
