@@ -1,0 +1,119 @@
+h1{
+	font-family:'Open Sans', sans-serif;
+
+}
+
+body{ 
+	max-width: 1000px;
+	margin: auto;
+	text-decoration: none;
+ }
+
+ a{  display:inline-block; 
+     text-decoration: none;
+     margin: auto;
+     
+     font-family:'Open Sans', sans-serif;
+
+
+ 	
+ }
+#button-container{
+	border: 1px solid #ddd;
+    margin: 0 10px 10px 0;
+    padding: 20px;
+    width: 300px;
+    height: 300px;
+    float: left;
+    overflow: hidden;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.ARMY{
+	display: inline-block;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px 40px 0 40px;
+    background-color: black;
+    border: 5px solid #fec325;
+    color: #fff;
+    font-size: 15px;	
+    letter-spacing: 3px;
+    font-family: sans-serif;
+    text-decoration:none; 
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif; 
+
+} 
+
+.OLDNAVY{ 
+
+	display: inline-block;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 95px;
+    color: white;
+    background-color:darkblue; 
+    margin: auto;
+    margin-top: 100px;
+    padding: 10px 40px 0 40px;
+    font-family: 'Futura', sans-serif;
+    font-weight: bold; 
+    font-stretch:10px; 
+    text-decoration: none; 
+    
+  
+
+}
+.OLDNAVY:visited{
+	color: lightblue;
+}
+.electrabike{
+	background-color:#00a8cb;
+
+
+}
+a:hover{
+	transition: transform .5s; 
+	transform: scale(.8);
+	
+	
+} 
+/*a.facebook{
+	max-width: 100px;
+	margin:auto;
+	padding: 10px 40px 0 40px;
+	border-radius: 50px;
+	background-color: blue;
+	color: white;
+}
+img.facebook{
+	max-width:180px;
+	margin:auto;
+	padding: 10px 40px 0 40px;*/
+
+} 
+img.instagram{
+	box-shadow:7px 11px 22px 0px rgba(50, 50, 41, 0.67);
+} 
+
+img{
+    max-width:200px;
+    height: auto;  
+    margin-height: auto;
+    margin-right: auto;
+
+
+}
+a{
+    display: inline-block;
+    height: 50px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin: auto;
+
+}
