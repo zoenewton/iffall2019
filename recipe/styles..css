@@ -4,8 +4,8 @@ h1{
 	font-weight: bold;
 }  
 body{
-	max-width: 750px;
-	box-sizing: border-box;
+/*	max-width: 750px;
+*/	box-sizing: border-box;
 	/*width: 375px;
 	height: 812px;*/
 	background-color: rgb(246, 195, 137);
@@ -26,8 +26,8 @@ h2{
 }
  
  img{
- 	width: 375px;
- 	padding: 0px; 
+/* 	width: 375px;
+*/ 	padding: 0px; 
  	margin: 0px;
  }
 span{ 
@@ -43,7 +43,9 @@ span{
 
 }
 
-
+footer{
+	margin-top: 200px;
+}
 
 
 }
