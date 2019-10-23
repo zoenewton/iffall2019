@@ -21,12 +21,11 @@ body{
 }  
 #preptime{
 	font-family: 'Montserrat', sans-serif; 
-	text-align: center;
-	
+	width: 375px;
 
 
 } 
-p{ 
+ul{ 
 	display: inline-block;
 	 }
 h2{
