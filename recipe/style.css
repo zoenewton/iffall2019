@@ -1,0 +1,150 @@
+html{
+		background-color:rgb(246, 195, 137);
+		max-width: 375px; 
+
+	} 
+	font-family: abril-fatface, serif;font-family: droid-sans, sans-serif;
+	#iPhone_X_XS___1 {
+		position: absolute;
+		box-sizing: border-box;
+		background: #E5E5E5;
+		width: 375px;
+		height: 812px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: iPhone X/XS – 1;
+		--web-view-id: iPhone_X_XS___1;
+		--web-enable-deep-linking: true;
+	}
+	.Rectangle_1 {
+		position: absolute;
+		overflow: visible;
+		width: 375px;
+		height: 334px;
+		left: 0px;
+		top: 478px;
+	}
+	.AK_Butternut_Squash_Enchilada_ {
+		position: absolute;
+		overflow: visible;
+		width: 573.5px;
+		height: 573.5px;
+		left: -73px;
+		top: -60px;
+	}
+	#Butternut_Squash_and_Black_Bea {
+		position: absolute;
+		left: 41px;
+		top: 530px;
+		overflow: hidden;
+		width: 235px;
+		height: 130px;
+		text-align: left;
+		font-family: Futura PT;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.1px;
+	}
+	.Line_1 {
+		overflow: visible;
+		position: absolute;
+		width: 7px;
+		height: 277.022px;
+		left: 30.5px;
+		top: 535.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}
+	#Prep_Time__5_MINUTE {
+		position: absolute;
+		left: 40.8px;
+		top: 669.071px;
+		overflow: visible;
+		width: 51px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Futura PT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.12px;
+	}
+	#serves__4_ {
+		position: absolute;
+		left: 285.741px;
+		top: 669.071px;
+		overflow: visible;
+		width: 37px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Futura PT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.12px;
+	}
+	#total_Time___25_minutes_ {
+		position: absolute;
+		left: 200.878px;
+		top: 669.071px;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Futura PT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.12px;
+	}
+	#cook_Time__20_MINUTES {
+		position: absolute;
+		left: 121.469px;
+		top: 669.071px;
+		overflow: visible;
+		width: 49px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Futura PT;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.12px;
+	}
+	#Component_1___1 {
+		position: absolute;
+		width: 290px;
+		height: 100px;
+		left: 43px;
+		top: 716px;
+		overflow: visible;
+	}
+	#A_healthy_vegetarian_Mexican_i {
+		position: absolute;
+		left: 0px;
+		top: 0px;
+		overflow: hidden;
+		width: 291px;
+		height: 100px;
+		text-align: left;
+		font-family: Hatch;
+		font-style: normal;
+		font-weight: lighter;
+		font-size: 18px;
+		color: rgba(0,0,0,1);
+		letter-spacing: 0.12px;
+	}
+	.Line_2 {
+		overflow: visible;
+		position: absolute;
+		width: 7px;
+		height: 825.007px;
+		left: 20.5px;
+		top: -12.5px;
+		transform: matrix(1,0,0,1,0,0);
+	}

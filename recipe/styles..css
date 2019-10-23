@@ -1,0 +1,52 @@
+h1{
+	font-family: 'Montserrat', sans-serif;
+	text-align:left; 
+	font-weight: bold;
+}  
+body{
+	max-width: 750px;
+	box-sizing: border-box;
+	width: 375px;
+	height: 812px;
+	background-color: rgb(246, 195, 137);
+}
+#description{
+	font-family: 'Jomolhari', serif;
+	font-style: italic;
+
+}  
+#preptime{
+	font-family: 'Montserrat', sans-serif;
+
+} 
+h2{
+	font-family: 'Montserrat', sans-serif;
+	text-align:left; 
+	font-weight: bold;
+}
+ 
+ img{
+ 	width: 375px;
+ 	padding: 0px; 
+ 	margin: 0px;
+ }
+span{ 
+	font-family: 'Jomolhari', serif;
+	font-style: italic;
+}
+#ingredients{
+	font-family: 'Jomolhari', serif;
+	font-weight: lighter;
+}
+#instructions {
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+
+
+
+}
+
+font-family: 'Jomolhari', serif;
+font-family: 'Montserrat', sans-serif;
