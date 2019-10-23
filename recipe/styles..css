@@ -3,26 +3,37 @@ h1{
 	text-align:left; 
 	font-weight: bold;
 }  
-body{
+body{ 
+	margin: 0px;
+	padding: 0px;
 /*	max-width: 750px;
-*/	box-sizing: border-box;
+*/	
+/*box-sizing: border-box;*/
 	/*width: 375px;
 	height: 812px;*/
 	background-color: rgb(246, 195, 137);
 }
 #description{
 	font-family: 'Jomolhari', serif;
-	font-style: italic;
+	font-style: italic; 
+
 
 }  
 #preptime{
-	font-family: 'Montserrat', sans-serif;
+	font-family: 'Montserrat', sans-serif; 
+
 
 } 
+ul{ 
+	display: inline-block;
+	 }
 h2{
 	font-family: 'Montserrat', sans-serif;
 	text-align:left; 
 	font-weight: bold;
+}
+#content{
+	margin: 20px;
 }
  
  img{
