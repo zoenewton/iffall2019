@@ -21,26 +21,26 @@ body{
 }  
 #preptime{
 	font-family: 'Montserrat', sans-serif; 
+	text-align: center;
+	
 
 
 } 
-ul{ 
+p{ 
 	display: inline-block;
 	 }
 h2{
 	font-family: 'Montserrat', sans-serif;
-	text-align:left; 
 	font-weight: bold;
 }
 #content{
 	margin: 20px;
 }
- 
- img{
-/* 	width: 375px;
-*/ 	padding: 0px; 
- 	margin: 0px;
- }
+
+#image img{
+	width:100%;
+}
+
 span{ 
 	font-family: 'Jomolhari', serif;
 	font-style: italic;
