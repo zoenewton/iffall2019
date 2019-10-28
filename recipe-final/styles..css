@@ -1,0 +1,74 @@
+h1{
+	font-family: 'Montserrat', sans-serif;
+	text-align:left; 
+	font-weight: bold;
+}  
+body{ 
+	margin: 0px;
+	padding: 0px;
+/*	max-width: 750px;
+*/	
+/*box-sizing: border-box;*/
+	/*width: 375px;
+	height: 812px;*/
+	background-color: rgb(246, 195, 137);
+}
+#description{
+	font-family: 'Jomolhari', serif;
+	font-style: italic; 
+
+
+}  
+#preptime{
+	font-family: 'Montserrat', sans-serif; 
+	width: 375px;
+
+
+} 
+ul{ 
+	display: inline-block;
+	 }
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+#content{
+	margin: 20px;
+}
+
+#image img{
+	width:100%;
+}
+
+span{ 
+	font-family: 'Jomolhari', serif;
+	font-style: italic;
+}
+#ingredients{
+	font-family: 'Jomolhari', serif; 
+	line-height: 50px; 
+	  padding: 0 18px
+  		
+}  
+
+#instructions {
+	font-family: 'Montserrat', sans-serif; 
+
+
+} 
+#instructions img{
+  border-radius: 50%;
+  float: right;
+  max-width: 100px; 
+  margin:0px;
+}
+
+footer{
+	margin-top: 200px;
+}
+
+
+}
+
+font-family: 'Jomolhari', serif;
+font-family: 'Montserrat', sans-serif;
