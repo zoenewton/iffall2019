@@ -15,23 +15,50 @@ body{
 }
 #description{
 	font-family: 'Jomolhari', serif;
-	font-style: italic; 
-
-
-}  
-#preptime{
-	font-family: 'Montserrat', sans-serif; 
-	width: 375px;
+	font-style: italic;  
+	margin-bottom: 30px;
 
 
 } 
-ul{ 
+
+#preptime strong{
+	color: black;
+} 
+#preptime{
+	font-family: 'Montserrat', sans-serif; 
+	width: 100%; 
+	margin: 15px 0px; 
+	text-align: center; 
+	text-align: center;
+    border-bottom: 1.5px solid;
+    border-top: 1.5px solid;
+    padding: 7px; 
+    border-color: rgb(254, 118, 0); 
+    box-sizing: border-box;
+
+
+
+} 
+#preptime ul{ 
 	display: inline-block;
-	 }
-h2{
+	width: 40%; 
+	padding-left: 0px; 
+	margin:5px 0px; 
+
+
+}
+strong{
+	color: rgb(254, 118, 0);
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+#ingredients h2{
 	font-family: 'Montserrat', sans-serif;
 	font-weight: bold;
+	margin-top: 30px;
 }
+
 #content{
 	margin: 20px;
 }
@@ -40,14 +67,16 @@ h2{
 	width:100%;
 }
 
-span{ 
+h3{ 
 	font-family: 'Jomolhari', serif;
-	font-style: italic;
+	font-style: italic; 
+	margin: 0; 
+
 }
 #ingredients{
 	font-family: 'Jomolhari', serif; 
-	line-height: 50px; 
-	  padding: 0 18px
+	line-height: 22px; 
+	  
   		
 }  
 
@@ -58,13 +87,42 @@ span{
 } 
 #instructions img{
   border-radius: 50%;
-  float: right;
-  max-width: 100px; 
-  margin:0px;
+  width: 100px; 
+  margin:0px; 
+  height: 100px;
+  object-fit: cover;
+  object-position: center;
+  display: inline-block; 
+  vertical-align: top; 
+  margin-left: 10px; 
+  margin-bottom: 15px;
+}  
+
+li{
+	list-style: none;
+	margin-bottom: 15px;
+	
+}
+#ingredients ul{
+	padding: 0;
+}
+#instructions >div p{
+	display: inline-block; 
+	width: calc(95% - 100px); 
+	margin-top:0;
+
+
 }
 
 footer{
 	margin-top: 200px;
+	font-family: 'Montserrat', sans-serif; 
+}
+a {color: black; 
+	text-decoration: none;
+	font-weight: bold;
+
+
 }
 
 
