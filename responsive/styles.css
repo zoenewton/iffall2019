@@ -1,0 +1,133 @@
+body,html{
+	height: 100%;
+	margin: 0;
+}
+a{ 
+	position:absolute; 
+	top:0;
+	bottom:0; 
+	left: 0;
+	right: 0;
+} 
+
+.card1{ 
+		font-family: 'Big Shoulders Text', cursive;
+		color: pink; 
+		background-image: url("postcards webArtboard 1.jpg"); 
+		height: 100%; 
+		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center center;
+	} 
+.card1 h1{
+	font-size: 2.5rem; 
+	position: absolute;
+	padding-left: 30px;
+	bottom: 155px;
+	font-weight: 400;
+} 
+.card1 p{
+	font-size: 1rem;
+}
+.card1 strong{
+	font-weight: 400;
+	color:deeppink;
+	font-size: 2.5rem;
+
+}
+@media (max-width: 400px){
+	.card2 h1{
+    		top: 5px; }
+}
+
+@media (max-width: 800px){
+	.card1 div{
+			width:50%; 
+			text-shadow: 2px 2px black;
+			
+	}
+	.card1 h1{
+			font-size: 1.8rem;
+				}
+	.card1 strong{
+		font-size: 2rem;
+	} 
+	.card2 h1{
+    		position: absolute;
+    		top: 150px; 
+    		text-shadow: 2px 2px 4px #000000;	
+    		
+	}
+	.card2 strong{
+			text-shadow: 2px 2px 4px #000000;
+	}
+	.card2 p{
+		/*color: cornsilk; */
+		/*text-shadow: none;*/
+			/*text-shadow: 2px 2px 5px deeppink;*/
+	}
+} 
+@media (max-width: 920px){
+	.card1 h1{
+			width:25%; 
+			text-shadow: 2px 2px black;
+
+}}
+
+	
+.card2{ 
+		font-family: 'Big Shoulders Text', cursive;
+		color: pink; 
+		background-image: url("postcards webArtboard 2.jpg"); 
+		height: 100%; 
+		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center;
+	} 
+.card3{ 
+		font-family: 'Big Shoulders Text', cursive;
+		color: pink; 
+		background-image: url("postcards webArtboard 3.jpg"); 
+		height: 100%; 
+		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+.card2 h1{
+	font-size: 2rem; 
+	position: absolute;
+	padding-left: 30px;
+	bottom: 15px;
+	font-weight: 400;
+	width: 27%;
+}
+.card2 p{
+	margin: 0;
+	font-size: 1rem;
+}
+.card2 strong{
+	color:deeppink;
+	font-size: 2.5rem;
+
+} 
+.card3 h1{
+	font-size: 2.5rem;
+    position: absolute;
+    bottom: 250px;
+    font-weight: 700;
+    padding-left: 3%;
+    width: 27%;
+    text-shadow: 2px 2px 4px black;
+    color: deeppink;
+}
+.card3 p{
+	margin: 0;
+	font-size: 1.5rem;
+	color: lightpink;
+	font-weight: 400;
+	text-shadow:2px 2px 4px black;}
+
+.card3 strong{
+	color: lightpink;
+	font-weight: lighter;
+}
