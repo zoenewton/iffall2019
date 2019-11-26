@@ -1,0 +1,33 @@
+body,html{
+	height: 100%;
+	margin: 0;
+}
+.homescreen{ 
+		background-image:url("race.jpg");
+		height: 100%; 
+		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center center; 
+		
+
+ }
+ .homescreen a:hover{
+ 			text-decoration: none;
+ 			color: skyblue;
+ } 
+ p{ 
+ 		font-family: 'Russo One', sans-serif; 
+		color: white; 			
+ }
+ .homescreen img{
+ 		 opacity: 0.3;
+ 		 height: 100%; 
+		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center center;
+ }
+
+ }
+
+
+ 
