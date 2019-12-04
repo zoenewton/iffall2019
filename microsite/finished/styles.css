@@ -1,0 +1,209 @@
+body,html{
+	height: 100%;
+	margin: 0;
+	}
+
+
+p{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 90%; 
+}
+h2{text-align: left;
+	max-width: 30%;
+	color: white;
+		font-family: 'Russo One', sans-serif;
+		letter-spacing: 1px; 
+		font-size: 30px;
+		margin: 0;
+		
+		  }
+.homescreen{ 
+		height: 100%; 
+		background-image:url("Artboard 1.jpg");
+		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center center; 
+		
+
+ } 
+ .homescreen span{    position: fixed;
+	   				 bottom: 8%;
+    				left: 40%;
+    				color: white;
+    				font-family: 'Open Sans', sans-serif;
+    				font-size: 1.2rem;
+    			 }
+ .hover span{color: skyblue;
+    				font-family: 'Open Sans', sans-serif;
+    				font-size: 1.5rem;
+    				
+
+ }
+
+span{
+	color: skyblue;
+    				font-family: 'Open Sans', sans-serif;
+    				font-size: 1.2rem;
+    				padding: 3px;
+}
+ .navbar{ float: right;
+ 		white-space: nowrap;
+		text-align: right;
+		font-style: normal;
+		font-family: 'Open Sans', sans-serif;
+		font-weight: normal;
+		font-size: 100%;
+		color: rgba(255,255,255,1);
+		letter-spacing: 1px; 
+		text-decoration: none;  
+		padding: 1%;
+		box-sizing: border-box;
+
+		  } 
+a{
+		text-align: right;
+		font-style: normal;
+		font-family: 'Open Sans', sans-serif;
+		font-weight: normal;
+		font-size: 100%;
+		color: rgba(255,255,255,1);
+		letter-spacing: 1px; 
+		text-decoration: none;
+}
+.navbar a {
+	text-decoration: none;
+	margin: 10px;}
+a img{
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    max-width: 50px;
+    height: auto;
+}
+a:hover {
+text-decoration: underline;
+}
+ a:visited { color:white; }
+
+ .page2{
+ 	background-image:url(History.png); 
+ 		width: 100%;
+ 		
+ 		background-size: cover; 
+		background-repeat: no-repeat;
+		background-position: center center;
+ } 
+ .page3{ 
+ 	background-image: url(microsite_images_Recoveredn_A3_Rectangle_2_pattern.png);
+ 
+ 		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+
+ }
+
+ .page4{
+ 	background-image: url(microsite_images_1_A1_Rectangle_2_pattern.png);
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+		height: 100%;
+ }
+.history{ 
+	background-color: rgba(54, 3, 64, 0.5);
+	padding: 3rem;
+	max-width: 600px;
+	width: 30%;
+	height: 100%; 
+	padding-top: 20%;
+	margin:0;
+	box-sizing: border-box;
+
+	 }  
+.teams{
+	background-color: rgba(54, 3, 64, 0.5);
+	padding: 3rem;
+	max-width: 600px;
+	width: 40%;
+	height: 100%; 
+	padding-top: 10%;
+	margin:0;
+	box-sizing: border-box;
+
+	 }  
+
+@media (max-width: 400px){
+	 p{
+		font-size: 75%; } 
+	h2{
+		font-size: 75%; } 
+	.history{
+		width: 100%;
+		height: 100%;
+		padding: 2rem;
+		padding-top: 50%;
+} 
+		.teams{
+		width: 100%;
+		height: 100%;
+		padding: 2rem;
+		padding-top: 50%;
+}
+
+	.navbar{
+			font-size: 50%;
+			white-space: pre-wrap;}
+	.page2{
+		height: 100%;
+	} 
+	.page3{
+		height: 100%;
+	} 
+	.homescreen{
+		height: 100%;
+		background-position: left;
+	}
+	.homescreen  span{
+		font-size: 70%;
+    bottom: 50%;
+    padding-left: 10%;
+
+}
+	a img{max-width: 0;}}
+@media (max-width: 800px){
+		 p{
+		font-size: 60%;}
+		h2{
+		font-size: 70%;
+			}
+	.history{
+		padding: 1.5rem;
+		padding-top: 35%;
+
+	}
+	.teams{
+		width: 100%;
+		height: 100%;
+		padding: 2rem;
+		padding-top: 50%;
+}
+	.page2{
+		height: 100%;}
+	.page3{
+		height: 100%;}
+	.navbar{
+		font-size:75%;
+	}
+	.homescreen{
+		height: 100%;
+		background-position: left;
+
+	}
+	.homescreen  span{
+		font-size: 70%;}
+
+	}
+
+
+ 
